@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-10T15:54:15.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="iQyyzsQpjW53MfvuyHI8" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T16:10:41.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="ReegpUFslhP0qyPkVKSc" version="14.6.11" type="github">
   <diagram id="gqrAPQSGs6m91VuGfRIM" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -75,19 +75,19 @@
         <mxCell id="Wlz0abQoxIl_LB6TaBgo-29" value="出一期实践视频" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="730" y="192" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DJbt_IODPc80AAWURKYm-1" value="做多模式请求&#xa;实验，并弄&#xa;清楚非同步任&#xa;务创建的&#xa;多种方法，&#xa;输出视频" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="DJbt_IODPc80AAWURKYm-1" value="做多模式请求&#xa;实验，并弄&#xa;清楚非同步任&#xa;务创建的&#xa;多种方法，&#xa;输出视频" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="660" y="653" width="172" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DJbt_IODPc80AAWURKYm-2" value="Concurrency &#xa;in Go第一章&#xa;以及第二章的&#xa;复习" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;" vertex="1" parent="1">
+        <mxCell id="DJbt_IODPc80AAWURKYm-2" value="Concurrency &#xa;in Go第一章&#xa;以及第二章的&#xa;复习" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="820" y="653" width="172" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DJbt_IODPc80AAWURKYm-3" value="输出读书笔记" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;" vertex="1" parent="1">
+        <mxCell id="DJbt_IODPc80AAWURKYm-3" value="输出读书笔记" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="978" y="653" width="172" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DJbt_IODPc80AAWURKYm-4" value="Concurrency &#xa;in Go完整阅读" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;" vertex="1" parent="1">
+        <mxCell id="DJbt_IODPc80AAWURKYm-4" value="Concurrency &#xa;in Go完整阅读" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1140" y="653" width="172" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="DJbt_IODPc80AAWURKYm-5" value="输出一个&#xa;流程的感受&#xa;-over" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;" vertex="1" parent="1">
+        <mxCell id="DJbt_IODPc80AAWURKYm-5" value="输出一个&#xa;流程的感受&#xa;-over" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1300" y="653" width="154" height="200" as="geometry" />
         </mxCell>
       </root>
